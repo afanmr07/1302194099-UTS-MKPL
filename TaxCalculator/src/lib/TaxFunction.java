@@ -43,7 +43,7 @@ public class TaxFunction {
 		if (tax < 0) {
 			return 0;
 		} else {
-
+			return tax;
 		}
 
 	}
